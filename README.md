@@ -6,3 +6,6 @@ Desafios implementados:
 
 Botão de Reset
 Impedimento de números negativos
+
+
+Diário de IA : ..\app\src\main\keepRules
